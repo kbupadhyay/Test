@@ -1,0 +1,14 @@
+{
+    "name": "kishan/test",
+    "description": "A simple test package",
+    "authors": [{
+        "name": "Kishan Upadhyay",
+        "email": "kupadhyay@yopmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kishan\\Test\\": "src/"
+        }
+    },
+}
